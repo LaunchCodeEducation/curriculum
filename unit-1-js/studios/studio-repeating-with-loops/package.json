@@ -1,0 +1,18 @@
+{
+    "name": "loops",
+    "version": "1.0.0",
+    "description": "",
+    "main": "solution.js",
+    "scripts": {
+      "test": "jasmine"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "readline-sync": "^1.4.10"
+    },
+    "devDependencies": {
+      "jasmine": "^4.0.2"
+    }
+  }
+  

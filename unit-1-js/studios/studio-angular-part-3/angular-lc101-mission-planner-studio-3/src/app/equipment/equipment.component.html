@@ -1,0 +1,22 @@
+<div class="displayBox">
+    <h3>Equipment</h3>
+    <ol>
+        <li *ngFor="let item of equipmentItems">
+            <!-- "Add to Cargo Hold" button goes here. -->
+            {{item.name}}, {{item.mass}} kg
+        </li>
+    </ol>
+</div>
+
+<hr>
+
+<div class = "displayBox">
+    <h3>Cargo Hold: {{cargoHold.length}}/{{maxItems}} Spots Filled</h3>
+    <ol>
+        <li *ngFor="let equipment of cargoHold">{{equipment.name}}</li>
+    </ol>
+    <p>Mass in Hold: {{cargoMass}} kg</p>
+    <p>Mass Budget Remaining: {{<!-- Calculate mass remaining here. -->}} kg</p>
+    <!-- Add the "Empty Hold" button here. -->
+</div>
+

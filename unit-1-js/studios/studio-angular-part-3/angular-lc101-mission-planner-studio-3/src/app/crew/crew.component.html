@@ -1,0 +1,14 @@
+<div class="displayBox">
+    <h3>Candidates</h3>
+    <ul>
+        <li *ngFor="let member of candidates">{{member.name}}</li>
+    </ul>
+</div>
+<hr>
+<div class="displayBox">
+    <h3>Crew <!-- Add a span tag here to display 'Full' when the crew reaches 3. --></h3>
+    <ol>
+        <li *ngFor="let astronaut of crew">{{astronaut.name}}</li>
+    </ol>
+    <!-- Add an img tag here to display astronaut photos. -->
+</div>
