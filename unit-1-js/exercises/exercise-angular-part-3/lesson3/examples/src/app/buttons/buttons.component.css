@@ -1,0 +1,25 @@
+.buttons {
+   text-align: center;
+   color: brown;
+}
+
+h3 {
+   text-align: center;
+   text-decoration: underline;
+}
+
+button {
+   margin: 5px;
+}
+
+.gold {
+   background: gold;
+}
+
+.silver {
+   background: silver;
+}
+
+.copper {
+   background: #b87333 ;
+}

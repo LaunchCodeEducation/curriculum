@@ -1,0 +1,47 @@
+<div class="container">
+    <h2 class="centered">Mission Name: {{missionName}}</h2>
+    <br>
+    <div class="row justify-content-center">
+        <div class="candidates col-3">
+            <h2>Candidates</h2>
+            <ol>
+                <li>Use *ngFor to automatically list all of the candidates' names.</li>
+            </ol>
+        </div>
+    
+        <div class="data col-3">
+            <h2>Candidate Data</h2>
+            <p> <!-- Add an *ngIf to this tag to display the selected candidate's data-->
+                {{selected.name}}
+            </p>
+        </div>
+    
+        <div class="centered col-3">
+            <h2>Sidekick</h2>
+            <!-- Use *ngIf and the correct placeholder to display a sidekick's image -->
+            <img src="{{placeholder}}" alt="OOPS! No image available."/>
+        </div>
+
+        <div class="crew col-3">
+            <h2>Selected Crew</h2>
+            <ul>
+                <li>Use *ngFor to list the selected crew.</li>
+            </ul>
+            <!-- Add a "Clear Crew List" button here. -->
+        </div>
+    </div>
+    <hr>
+    <div class = 'centered'>
+        <button>Clear Data & Image</button>
+        <!-- Add a "Send on Mission" button here. -->
+    </div>
+</div>
+
+<!-- The code below is for one of the Bonus Missions -->
+<ng-template #editMission>
+    <h2 class="centered">
+        Mission Name:
+        <!-- Add a keyup.enter event that calls the changeMissionName function. -->
+        <input #newName type="text"/>
+    </h2>
+</ng-template>

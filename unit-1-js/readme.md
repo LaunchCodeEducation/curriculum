@@ -23,8 +23,8 @@ graded-assignment-scrabble-scorer
 studio-unit-testing
 exercise-exceptions
 studio-strategic-debugging
-exercise-chapteres
-studio-chapteres
+exercise-classes
+studio-classes
 exercise-terminal-html-and-git
 studio-terminal-html-and-git
 exercise-css-and-git
