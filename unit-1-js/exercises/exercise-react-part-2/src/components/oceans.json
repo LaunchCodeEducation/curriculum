@@ -1,0 +1,75 @@
+[
+   {
+      "id": 1,
+      "name": "Sharks and Rays",
+      "fact1": "Sharks are the only fish with eyelids", 
+      "fact2": "Sharks are found in almost every ocean habitat", 
+      "fact3": "Fossil records date stingrays back to the Jurassic period, 150 million years ago",
+      "image": "https://em-content.zobj.net/thumbs/240/google/350/shark_1f988.png",
+      "creatureCheck": "true", 
+      "fishCheck": "true"
+   }, {
+      "id":2,
+      "name": "Crustaceans",
+      "fact1": "Lobsters urinate out of their face and they urinate on each other to communicate", 
+      "fact2": "Crabs have taste buds on their feet", 
+      "fact3": "Lobsters can re-grow an eye or an arm",
+      "image": "https://em-content.zobj.net/thumbs/240/google/350/crab_1f980.png",
+      "creatureCheck": "true", 
+      "fishCheck": "false"
+   }, {
+      "id":3,
+      "name": "Mammals",
+      "fact1": "Sperm whales are the loudest animals on earth",
+      "fact2": "Sea otter pups are born with buoyant fur that does not allow them to sink",
+      "fact3": "Sea mammals with flippers are called pinnipeds",
+      "image": "https://em-content.zobj.net/thumbs/240/google/350/seal_1f9ad.png",
+      "creatureCheck": "true",
+      "fishCheck": "false"
+   }, {
+      "id":4,
+      "name": "Fish",
+      "fact1": "Oarfishes are the longest bony fish in the world, reaching 8 meters in length",
+      "fact2": "Fish don't have eyelids",
+      "fact3": "Infantfish are the smallest fish in the world, reaching 8 millimeters in length",
+      "image": "https://em-content.zobj.net/thumbs/240/google/350/tropical-fish_1f420.png",
+      "creatureCheck": "true",
+      "fishCheck": "true"
+   }, {
+      "id":5,
+      "name": "Birds",
+      "fact1": "Atlantic puffins are nicknamed 'sea parrots'",
+      "fact2": "Seabirds have desalinization glands that let them drink sea water",
+      "fact3": "Adelie Penguin feces are pink and they are visible from space",
+      "image": "https://em-content.zobj.net/thumbs/240/google/350/penguin_1f427.png",
+      "creatureCheck": "true",
+      "fishCheck": "false"
+   }, {
+      "id":6,
+      "name": "Squids, Octopuses and Cephalopods",
+      "fact1": "Cephalopods have blue blood",
+      "fact2": "Octopuses live in dens made out of rocks which they build",
+      "fact3": "The Thai Bobtail Squid is the world's smallest squid averaging 0.4 inches",
+      "image": "https://em-content.zobj.net/thumbs/240/google/350/octopus_1f419.png",
+      "creatureCheck":  "true",
+      "fishCheck": "false"
+   }, {
+      "id":7,
+      "name": "Reptiles and Amphibians",
+      "fact1": "Marine iguanas are the only marine lizard species in the world",
+      "fact2": "Adult saltwater crocodiles have 66 teeth on average and the greatest bite pressure of any animal in the world",
+      "fact3": "When sea turtles sleep, they can slow their heart rate as slow as 4 beats per minute to conserve oxygen",
+      "image": "https://em-content.zobj.net/thumbs/240/google/350/crocodile_1f40a.png",
+      "creatureCheck":  "ture",
+      "fishCheck": "false"
+   }, {
+      "id":8,
+      "name": "Oceans",
+      "fact1": "The Mariana Trench is the deepest part of the ocean floor reaching depths of 10,984 meters",
+      "fact2": "The Ocean is subdivided into 5 smaller oceans: Antarctic, Atlantic, Pacific, Indian, and Arctic",
+      "fact3": "Much of the world's oxygen is created by phytoplankton and algae",
+      "image": "https://em-content.zobj.net/thumbs/240/google/350/water-wave_1f30a.png",
+      "creatureCheck":  "false",
+      "fishCheck": "false"
+   }
+]

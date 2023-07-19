@@ -1,0 +1,36 @@
+
+#saveButton {
+   background-color: red;
+   color: white;
+   border-radius: 25px;
+   font-size: 20px;
+   padding: 10px;
+   margin: 10px;
+ }
+ 
+ #saveButton:hover {
+   background-color: firebrick;
+   color: white;
+ }
+ 
+ #clickedButton {
+   background-color: black;
+   color: white;
+   border-radius: 25px;
+   font-size: 20px;
+   padding: 10px;
+   margin: 10px;
+ }
+ 
+ .authorImage {
+   border-radius: 50%;
+   width: 60px;
+   height: 70px;
+   margin: 10px;
+ }
+ 
+ .recipeImage {
+   width: 20%;
+   display: block;
+   margin: 10px;
+ }
