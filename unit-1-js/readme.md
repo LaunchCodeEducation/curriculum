@@ -1,50 +1,9 @@
-exercise-data-and-variables
-studio-data-and-variables
-graded-assignment-candidate-testing
-exercise-conditionals
-exercise-debugging
-studio-goal-setting-power-statements
-exercise-strings-arrays
-studio-strings-arrays
-exercise-repeating-with-loops
-studio-repeating-with-loops
-graded-assignment-candidate-testing
-exercise-functions-are-at-your-beck-and-call
-studio-functions-are-at-your-beck-and-call
-studio-more-on-functions
-graded-assignment-candidate-testing
-exercise-more-on-functions
-exercise-objects-and-the-math-object
-studio-objects-and-math
-exercise-modules
-studio-building-confidence
-exercise-unit-testing
-graded-assignment-scrabble-scorer
-studio-unit-testing
-exercise-exceptions
-studio-strategic-debugging
-exercise-classes
-studio-classes
-exercise-terminal-html-and-git
-studio-terminal-html-and-git
-exercise-css-and-git
-studio-css-and-git
-exercise-dom-and-events
-graded-assignment-mars-rover
-studio-dom-and-events
-exercise-forms
-studio-http-and-forms
-exercise-fetch-and-json
-graded-assignment-html-me-something
-studio-fetch-and-json
-exercise-typescript
-studio-typescript
-exercise-angular-part-1
-graded-assignment-launch-checklist-form
-studio-angular-part-1
-exercise-angular-part-2
-studio-angular-part-2
-exercise-angular-part-3
-studio-angular-part-3
-graded-assignment-orbit-report
+## Migration JavaScript Remaining Tesk 
+- [x] Migrated rst files to Markdown :tada:
+- [ ] Review reading
+- [ ] Remove Replit reference
+- [ ] Check syntax and Formatting
+- [ ] Run Exercises Solutions
+- [ ] Run Studio Solutions
+- [ ] Add Links to Canvas
 
