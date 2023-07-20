@@ -1,41 +1,8 @@
-graded-assignment-hello-world
-exercises-intellij-setup-and-data-types
-studio-data-types
-exercises-control-flow-and-collections
-studio-control-flow-and-collections
-exercises-classes-and-objects-part-1
-studio-classes-and-objects-part-1
-exercises-classes-and-methods-part-2
-studio-classes-and-objects-part-2
-exercises-unit-testing
-studio-unit-testing
-exercises-inheritance
-studio-inheritance
-graded-assignment-tech-jobs-console-edition
-exercises-interfaces-and-polymorphism
-studio-spinning-the-discs
-exercises-intro-to-spring-and-controllers
-studio-skills-tracker
-exercises-exceptions
-studio-debugging
-exercises-thymeleaf-views
-studio-spa-day!
-exercises-models-and-model-dinding
-studio-spa-users
-exercises-model-validation-and-enums
-studio-spa-user-validation
-graded-assignment-tech-jobs-oop
-exercises-databases-and-sql
-studio-movie-sql
-exercises-the-sql-sequel
-studio-a-library
-exercises-introduction-to-object-relational-mapping
-studio-creating-an-abstractentity
-graded-assignment-tech-jobs-mvc
-exercises-relationships-in-object-relational-mapping
-studio-relationships-in-object-relational-mapping
-exercises-relationships-in-object-relational-mapping-continued
-studio-relationships-in-object-relational-mapping-continued
-studio-tech-jobs-authentication
-studio-rest
-graded-assignment-tech-jobs-persistent
+## Migration JavaScript Remaining Tesk 
+- [x] Migrated rst files to Markdown :tada:
+- [ ] Review reading
+- [ ] Remove Replit reference
+- [ ] Check syntax and Formatting
+- [ ] Run Exercises Solutions
+- [ ] Run Studio Solutions
+- [ ] Add Links to Canvas
