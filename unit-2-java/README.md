@@ -1,4 +1,4 @@
-## Migration JavaScript Remaining Tesk 
+## Migration Java Remaining Tesk 
 - [x] Migrated rst files to Markdown :tada:
 - [ ] Review reading
 - [ ] Remove Replit reference
