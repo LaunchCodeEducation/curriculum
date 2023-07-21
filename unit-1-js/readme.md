@@ -7,5 +7,6 @@
 - [ ] Run -> Studio Solutions
 - [ ] Add Assignments to repo
 - [ ] Add Links to Canvas
-- [x] GitHub found 742 vulnerabilities on LaunchCodeEducation/curriculum's default branch (87 critical, 325 high, 294 moderate, 36 low)
+- [ ] [GitHub found 742 vulnerabilities on LaunchCodeEducation/curriculum's default branch (87 critical, 325 high, 294 moderate, 36 low)](https://github.com/LaunchCodeEducation/curriculum/security/dependabot)
+
 
